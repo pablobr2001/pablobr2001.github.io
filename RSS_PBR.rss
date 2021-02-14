@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+    <title>TodoFutbolOnline</title>
+    <category>Deporte</category>
+    <copyright>a20brrupa@iesgrancapitan.org (Pablo Breton Ruiz)</copyright>
+    <description>Noticias sobre el mundo del futbol</description>
+    <link>https://github.com/pablobr2001/pablobr2001.github.io</link>
+
+    <skipDays>
+        <day>Saturday</day>
+        <day>Sunday</day>
+    </skipDays>
+
+    <skipHours>
+        <hour>0</hour>
+        <hour>1</hour>
+        <hour>2</hour>
+        <hour>3</hour>
+        <hour>4</hour>
+        <hour>5</hour>
+    </skipHours>
+
+    <image>
+        <url>https://drive.google.com/file/d/12S396RVFiWBCWhCMzXL0H-pPcrWdQQye/view?usp=sharings</url>
+        <title>FUTBOL</title>
+        <link>https://github.com/pablobr2001/pablobr2001.github.io</link>
+    </image>
+
+    <language>es-es</language>
+    <lastBuildDate>Sun, 14 Feb 2021 12:15:00 GMT</lastBuildDate>
+	<webMaster>a20brrupa@iesgrancapitan.org (Pablo Breton Ruiz)</webMaster>
+
+    <item>
+        <title>Neymar JR lesionado</title>
+        <description>Lesion de neymar ante el Canes</description>
+        <author>a20brrupa@iesgrancapitan.org (Pablo Breton Ruiz)</author>
+        <pubDate>Sun, 14 Feb 2021 10:00:00 GMT</pubDate>
+        <enclosure url="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/12/14/16079405279956.jpg" length="5000" type="image/jpg"/>
+        <source url="https://www.20minutos.es/deportes/noticia/4579277/0/neymar-lesion-barcelona-psg-cumpleanos-hermana-raffaela/">https://www.20minutos.es/deportes/noticia/4579277/0/neymar-lesion-barcelona-psg-cumpleanos-hermana-raffaela/</source>
+        <link>https://github.com/pablobr2001/pablobr2001.github.io</link>
+    </item>
+
+    <item>
+        <title>Se pierde la ida contra el Barcelona</title>
+        <description>Debido a su reciente lesion se perdera la ida de Champions contra el FC-Barcelona</description>
+        <author>a20brrupa@iesgrancapitan.org (Pablo Breton Ruiz)</author>
+        <pubDate>Sun, 14 Feb 2021 10:00:00 GMT</pubDate>
+        <enclosure url="https://estaticos.sport.es/resources/jpg/7/5/analizamos-encuentro-entre-barcelona-psg-1607961320157.jpg" length="5000" type="image/jpg"/>
+        <source url="https://www.20minutos.es/deportes/noticia/4579277/0/neymar-lesion-barcelona-psg-cumpleanos-hermana-raffaela/">https://www.20minutos.es/deportes/noticia/4579277/0/neymar-lesion-barcelona-psg-cumpleanos-hermana-raffaela/</source>
+        <link>https://github.com/pablobr2001/pablobr2001.github.io</link>
+    </item>
+
+    <item>
+        <title>Neymar habla de su lesion</title>
+        <description>Neymar habla en sus redes sociales acerca de como se siente por su lesion</description>
+        <author>a20brrupa@iesgrancapitan.org (Pablo Breton Ruiz)</author>
+        <pubDate>Sun, 14 Feb 2021 10:00:00 GMT</pubDate>
+        <enclosure url="https://as02.epimg.net/futbol/imagenes/2021/02/10/internacional/1612993035_851615_1612993125_noticia_normal_recorte1.jpg" length="5000" type="image/jpg"/>
+        <source url="https://www.fichajes.com/a2132275500344060914-psg-neymar-explota-tras-su-lesion">https://www.fichajes.com/a2132275500344060914-psg-neymar-explota-tras-su-lesion</source>
+        <link>https://github.com/pablobr2001/pablobr2001.github.io</link>
+    </item>
+
+    <item>
+        <title>Dembele</title>
+        <description>Dembele esta en su mejor estado de forma</description>
+        <author>a20brrupa@iesgrancapitan.org (Pablo Breton Ruiz)</author>
+        <pubDate>Sun, 14 Feb 2021 10:00:00 GMT</pubDate>
+        <enclosure url="https://static.wixstatic.com/media/c90b40_ca60d9e73a2a4c6381c2ab67f27f95a5~mv2.jpg/v1/fill/w_750,h_494,al_c,q_85,usm_0.66_1.00_0.01/Dembele%201.webp" length="5000" type="image/jpg"/>
+        <source url="https://www.sport.es/es/noticias/barca/dembele-he-cambiado-osumabe-barcelona-barca-lesionmes-rcuperacionj-entrevista-11519798">https://www.sport.es/es/noticias/barca/dembele-he-cambiado-osumabe-barcelona-barca-lesionmes-rcuperacionj-entrevista-11519798</source>
+        <link>https://github.com/pablobr2001/pablobr2001.github.io</link>
+    </item>
+        
+</channel>
+</rss>
