@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Todo Futbol Online</title>
+    <link  rel="alternate" href="http://www.iesgrancapitan.org/sindicacion/atom/prog.xml"/>
+    <updated>2021-2-18T12:40:00Z</updated>
+    <author>
+        <name>Pablo Breton Ruiz</name>
+        <email>a20brrupa@iesgrancapitan.org</email>
+    </author>
+    <id>6b2116ae-3034-46b8-9af8-3419d07b08e5</id>
+    <category>Deportes</category>
+
+    <entry>
+        <title>Resumen Barsa-PSG</title>
+        <link href="https://as.com/futbol/2021/02/16/champions/1613498579_559805.html"/>
+        <id>57b2c647-36c6-47fd-bba7-d85c4b74bf18</id>
+        <updated>2021-2-18T12:40:00Z</updated>
+        <author>
+            <name>Pablo Breton Ruiz</name>
+            <email>a20brrupa@iesgrancapitan.org</email>
+        </author>
+        <summary>Resumen Barcelona-Psg por Diario As</summary>
+        <link rel= "relative" href = "https://as.com/futbol/2021/02/16/champions/1613498579_559805.html"/>
+        <link rel="enclosure"
+            type = "webpage"
+            href = "https://as.com/futbol/2021/02/16/champions/1613498579_559805.html"
+            length ="2342"/>
+    </entry>
+
+    <entry>
+        <title>Mejores Jugadas Barsa-Psg</title>
+        <link href="https://www.youtube.com/watch?v=LzkYdJgNLMk"/>
+        <id>57b2c647-36c6-47fd-bba7-d85c4b74bf18</id>
+        <updated>2021-2-18T12:40:00Z</updated>
+        <author>
+            <name>Pablo Breton Ruiz</name>
+            <email>a20brrupa@iesgrancapitan.org</email>
+        </author>
+        <summary>Mejores jugadas ida de octavos de final Champions League 2021 Barsa-Psg</summary>
+        <link rel="enclosure"
+            type = "application/x-shockwave-flash"
+            href = "https://www.youtube.com/watch?v=LzkYdJgNLMk"
+            length ="2342"/> 
+    </entry>
+
+    <entry>
+        <title>Historia Barsa temporada 2008-2009</title>
+        <link href="https://www.fcbarcelona.es/es/club/organizacion-y-plan-estrategico/comisiones-y-organos/reportes-anuales"/>
+        <id>57b2c647-36c6-47fd-bba7-d85c4b74bf18</id>
+        <updated>2021-2-18T12:40:00Z</updated>
+        <author>
+            <name>Pablo Breton Ruiz</name>
+            <email>a20brrupa@iesgrancapitan.org</email>
+        </author>
+        <summary>Pdf con la historia del barsa en la temporada 2008-2009</summary>
+        <link rel="enclosure"
+             xml:lang="es-es"
+            type ="application/pdf"
+            hreflang="es-es"
+            href ="https://platform-static-files.s3.amazonaws.com/HawkEye/document/2018/08/23/cf8e21dc-9dec-41df-8343-fc7b2b590285/ES_2008-09.pdf"
+            length ="2342"/>
+    </entry>
+
+    <entry>
+        <title></title>
+        <link href="https://eldesmarque.com/barcelona/fc-barcelona/noticias/161803-los-tres-senalados-de-ronald-koeman-para-reestructurar-la-plantilla-del-barca"/>
+        <id>57b2c647-36c6-47fd-bba7-d85c4b74bf18</id>
+        <updated>2021-2-18T12:40:00Z</updated>
+        <author>
+            <name>Pablo Breton Ruiz</name>
+            <email>a20brrupa@iesgrancapitan.org</email>
+        </author>
+        <summary type = html>&lt;h1&gt;El Barsa prepara una restructuración de plantilla.&lt;h1&gt;</summary>
+    </entry>
+
+</feed>
